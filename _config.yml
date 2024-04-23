@@ -86,7 +86,7 @@ content:
         description: |
           Member of the research group Information Systems and Software Engineering, Department of Computer Science.
 
-          My research focused on the design, implementation and use of welfare technology (eHealth). More details in section *Eduction* below.
+          My research focused on the design, implementation and use of welfare technology (eHealth). More details in section *Education* below.
 
       - layout: left
         title: Centers for Disease Control and Prevention, GA, USA
@@ -101,7 +101,7 @@ content:
           I also worked with the Southern Nevada Health District to streamline the data collection of the local syringe exchange program for people who inject drugs.
 
       - layout: left
-        title: Self employed
+        title: Self-employed
         sub_title: Consultant, Austria
         caption: 2015 - 2017
         description: |
@@ -179,7 +179,7 @@ content:
 
            Supervisor: Tobias Andersson-Gidlund
 
-           (Erasmus programme)
+           (Erasmus program)
 
       - layout: left
         title: Vienna University of Technology, Austria 
