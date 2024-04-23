@@ -64,7 +64,7 @@ content:
         sub_title: Postdoctoral fellow
         caption: 2023 - 2024
         description: |
-          Part of the research group Digital Innovation, Department of Informatics.
+          Member of the research group Digital Innovation, Department of Informatics.
 
           Research on Responsible AI (project: AI4Users) in welfare and healthcare services from a human/centred perspective.
 
@@ -74,25 +74,31 @@ content:
         sub_title: Research associate
         caption: 2020 - 2022
         description: |
-          Part of the research group Digital Health, Center for Health Services Research.
+          Member of the research group Digital Health, Center for Health Services Research.
 
           Research on systems for active participation of patients in their therapy.
 
       - layout: left
         title: Norwegian University of Science and Technology, Norway
         link: ntnu.edu
-        sub_title: PhD Candidate in the research group Information Systems and Software Engineering
+        sub_title: PhD Candidate 
         caption: 2018 - 2022
         description: |
+          Member of the research group Information Systems and Software Engineering, Department of Computer Science.
+
           My research focused on the design, implementation and use of welfare technology (eHealth). More details in section *Eduction* below.
 
       - layout: left
         title: Centers for Disease Control and Prevention, GA, USA
         link: cdc.gov
-        sub_title: Public Health Informatics Fellowship (Graduation 2019)
+        sub_title: Public Health Informatics Fellowship
         caption: 2017 - 2018
         description: |
-          The fellowship took place at the National Center for Environmental Health (NCEH), where the National Environmental Public Health Tracking Network (NEPTHN) systematically collects, analyzes and publishes health and environmental data. My work focussed on providing easy access to these data for the public and health care providers. This was accomplished by creating a visualization library (D3) and integrating environmental public health data with clinical data (SMART on FHIR). I also worked with the Southern Nevada Health District to streamline the data collection of the local syringe exchange program for people who inject drugs.
+          The fellowship took place at the National Center for Environmental Health (NCEH), where the National Environmental Public Health Tracking Network (NEPTHN) systematically collects, analyzes and publishes health and environmental data.
+          
+          My work focussed on providing easy access to these data for the public and health care providers. This was accomplished by creating a visualization library (D3) and integrating environmental public health data with clinical data (SMART on FHIR). 
+          
+          I also worked with the Southern Nevada Health District to streamline the data collection of the local syringe exchange program for people who inject drugs.
 
       - layout: left
         title: Self employed
@@ -118,9 +124,11 @@ content:
       - layout: left
         title: Karolinska Institute, Sweden
         link: ki.se
-        sub_title: Research associate at the Department of Global Public Health Sciences
+        sub_title: Research assistant
         caption: 2013 - 2014
         description: |
+          Member of the Department of Global Public Health Sciences.
+          
           Work on the EU-funded ARCADE projects (capacity building across Africa and Asia).
 
           Pilot implementation of a HIV/AIDS clinical decision support systems in three hospitals in Vietnam (field visits).
@@ -134,7 +142,7 @@ content:
       - layout: left
         title: Norwegian University of Science and Technology, Norway
         link: ntnu.edu
-        sub_title: PhD in Information Systems
+        sub_title: <mark>PhD</mark> Information Systems
         caption: 2018 - 2023
         description: |
           Thesis title: *The Home as the Centre of Care: A Case Study on Moving Healthcare Services into Homes*
@@ -146,7 +154,7 @@ content:
       - layout: left
         title: Karolinska Institute, Sweden
         link: ki.se
-        sub_title: MSc Health Informatics
+        sub_title: <mark>MSc</mark> Health Informatics
         caption: 2011 - 2013
         description: |
           Thesis title: *Innovational educational technologies to strengthen health research in Asia: Study of the performance and adaptability of a Minisip ARCADE implementation in low- and middle-income countries*
@@ -164,13 +172,13 @@ content:
       - layout: left
         title: Linnaeus University, Sweden 
         link: lnu.se
-        sub_title: Bachelor in Computer Science
+        sub_title: <mark>BSc</mark> Computer Science
         caption: 2009 - 2010
         description: |
            Thesis title: *colorXtractor - a technical aid for people with color blindness*
 
            Supervisor: Tobias Andersson-Gidlund
-           
+
            (Erasmus programme)
 
       - layout: left
