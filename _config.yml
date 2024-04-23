@@ -52,7 +52,6 @@ content:
       - layout: left
         title: Joanneum Research HEALTH, Austria
         link: joanneum.at/health
-        # link_text: boringcompany.com
         sub_title: Senior Scientist
         caption: September 2023 - Present
         description: |
@@ -60,29 +59,32 @@ content:
 
       - layout: left
         title: University of Oslo, Norway
-        link: https://www.mn.uio.no/ifi/english/research/groups/din/
+        link: uio.no
         link_text: UiO/DigitalInnovation
         sub_title: Postdoctoral fellow
         caption: 2023 - 2024
         description: |
+          Part of the research group Digital Innovation, Department of Informatics.
+
           Research on Responsible AI (project: AI4Users) in welfare and healthcare services from a human/centred perspective.
 
       - layout: left
         title: Brandenburg Medical School, Germany
-        link: https://www.mhb-fontane.de/en/center-health-services-research
-        link_text: MHB/CenterHealthServicesResearch
-        sub_title: Research associate in the research group *Digital Health*
+        link: mhb-fontane.de
+        sub_title: Research associate
         caption: 2020 - 2022
         description: |
+          Part of the research group Digital Health, Center for Health Services Research.
+
           Research on systems for active participation of patients in their therapy.
 
       - layout: left
         title: Norwegian University of Science and Technology, Norway
         link: ntnu.edu
-        sub_title: PhD Candidate in the research group *Information Systems and Software Engineering*
+        sub_title: PhD Candidate in the research group Information Systems and Software Engineering
         caption: 2018 - 2022
         description: |
-          My research focused on the design, implementation and use of welfare technology (eHealth). More details in section *Eduction*.
+          My research focused on the design, implementation and use of welfare technology (eHealth). More details in section *Eduction* below.
 
       - layout: left
         title: Centers for Disease Control and Prevention, GA, USA
@@ -98,8 +100,11 @@ content:
         caption: 2015 - 2017
         description: |
           Besides other projects:
+
           Planning and development of data repository for the startup 23 degrees.
+
           Lead developer of a web-based and community-driven education platform.
+
           Implementation of a portable documentation system for pediatric nurses.
 
       - layout: left
@@ -117,7 +122,9 @@ content:
         caption: 2013 - 2014
         description: |
           Work on the EU-funded ARCADE projects (capacity building across Africa and Asia).
+
           Pilot implementation of a HIV/AIDS clinical decision support systems in three hospitals in Vietnam (field visits).
+
           Study on electronic health record systems in Vietnam.
 
 
@@ -131,7 +138,9 @@ content:
         caption: 2018 - 2023
         description: |
           Thesis title: *The Home as the Centre of Care: A Case Study on Moving Healthcare Services into Homes*
+
           Supervisors: Eric Monteiro, Babak A. Farshchian, Margunn Aanestad
+
           Disputation date: January 12, 2023
 
       - layout: left
@@ -141,6 +150,7 @@ content:
         caption: 2011 - 2013
         description: |
           Thesis title: *Innovational educational technologies to strengthen health research in Asia: Study of the performance and adaptability of a Minisip ARCADE implementation in low- and middle-income countries*
+
           Supervisor: Nabil Zary
 
       - layout: left
@@ -158,7 +168,9 @@ content:
         caption: 2009 - 2010
         description: |
            Thesis title: *colorXtractor - a technical aid for people with color blindness*
+
            Supervisor: Tobias Andersson-Gidlund
+           
            (Erasmus programme)
 
       - layout: left
